@@ -1,0 +1,6 @@
+
+public class base {
+
+	File appDir = new File("src");
+	File app = new File(appDir, "")
+}
